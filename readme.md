@@ -1,7 +1,7 @@
 
 # Obstacle Detection for The Visually Impaired
 
-DLSU Computer Engineering Capstone Thesis 
+DLSU Computer Engineering Thesis 
 Co-Developed by: Cian Marlo Santos, Ellise Johanne Pag-ong, and Axcel Justin Tidalgo. It is a machine learning model created with Ultralytics YOLOv8 and OpenCV, meant to be deployed onto a vest-mounted Raspberry Pi 3 and used alongside a live camera feed. <br>
 <br>
 The resulting coordinates and classifications of the obstacle detection model will be sent to other microcontroller modules which will inform the user through audio and haptic outputs. This Project is currently in the machine learning development phase, while the output microcontroller module is being developed independently of this repository.
